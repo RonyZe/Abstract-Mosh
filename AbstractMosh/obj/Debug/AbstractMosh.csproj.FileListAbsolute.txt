@@ -1,0 +1,6 @@
+E:\AbstractMosh\AbstractMosh\bin\Debug\AbstractMosh.exe.config
+E:\AbstractMosh\AbstractMosh\bin\Debug\AbstractMosh.exe
+E:\AbstractMosh\AbstractMosh\bin\Debug\AbstractMosh.pdb
+E:\AbstractMosh\AbstractMosh\obj\Debug\AbstractMosh.csprojResolveAssemblyReference.cache
+E:\AbstractMosh\AbstractMosh\obj\Debug\AbstractMosh.exe
+E:\AbstractMosh\AbstractMosh\obj\Debug\AbstractMosh.pdb
